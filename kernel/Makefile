@@ -14,7 +14,7 @@ $(info -- MDIR: $(MDIR))
 # compliant to last upstream kernel change as of 6b5f55b
 CFLAGS_ksu.o += -DKSU_VERSION=32664
 
-KSU_PACKAGE_NAME := me.weishu.kernelsu
+KSU_PACKAGE_NAME := who.is.skye.kernalsu
 
 ccflags-y += -DKSU_VERSION_TAG=\"v3.3.0\"
 
